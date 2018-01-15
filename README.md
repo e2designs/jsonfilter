@@ -1,6 +1,6 @@
 
 Used for filtering through a nested JSON file.
-
+```
 usage: jsontool.py [-h] [-f FILENAME] [-v] [-o OUTFILE] [-i INDENT]
                    [-k KEYFILTER] [-d DATAFILTER]
 
@@ -23,3 +23,4 @@ optional arguments:
                         Data Value filter of the key:value pair. NOTE:
                         keyfiltering occurs first.
 
+```
